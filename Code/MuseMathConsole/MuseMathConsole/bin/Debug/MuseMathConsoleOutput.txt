@@ -1,0 +1,40 @@
+Addition Worksheet: 0 || 3142 + 1387  = 4529
+Subtract Worksheet: 0 || 3324 + 4259  = -0935
+Multiply Worksheet: 0 || 0011 + 0011  = 0121
+Divide Worksheet: 0 || 0108 + 0012  = 0009
+Shape Worksheet: 0 || Shape with L 06 and W 05 | Area: 30 | Perimeter: 22
+
+
+
+Addition Worksheet: 1 || 2685 + 4406  = 7091
+Subtract Worksheet: 1 || 0622 + 3862  = -3240
+Multiply Worksheet: 1 || 0004 + 0008  = 0032
+Divide Worksheet: 1 || 0024 + 0008  = 0003
+Shape Worksheet: 1 || Shape with L 07 and W 03 | Area: 21 | Perimeter: 20
+
+
+
+Addition Worksheet: 2 || 3162 + 1501  = 4663
+Subtract Worksheet: 2 || 0453 + 2620  = -2167
+Multiply Worksheet: 2 || 0001 + 0007  = 0007
+Divide Worksheet: 2 || 0003 + 0001  = 0003
+Shape Worksheet: 2 || Shape with L 03 and W 05 | Area: 15 | Perimeter: 16
+
+
+
+Addition Worksheet: 3 || 0604 + 0622  = 1226
+Subtract Worksheet: 3 || 3518 + 0576  = 2942
+Multiply Worksheet: 3 || 0002 + 0011  = 0022
+Divide Worksheet: 3 || 0072 + 0006  = 0012
+Shape Worksheet: 3 || Shape with L 12 and W 08 | Area: 96 | Perimeter: 40
+
+
+
+Addition Worksheet: 4 || 2036 + 2685  = 4721
+Subtract Worksheet: 4 || 0687 + 0622  = 0065
+Multiply Worksheet: 4 || 0003 + 0011  = 0033
+Divide Worksheet: 4 || 0003 + 0001  = 0003
+Shape Worksheet: 4 || Shape with L 01 and W 03 | Area: 3 | Perimeter: 8
+
+
+
